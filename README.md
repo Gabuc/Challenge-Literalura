@@ -1,11 +1,13 @@
 ![image](https://github.com/user-attachments/assets/73a06e55-cd91-47ae-9a3c-3c461f14d377)
 
 
+
 # Bem-vinda(o) ao Projeto: Integração de API com Banco de Dados em Java 🌟
 
 Oi! Que bom te ver por aqui! Este projeto foi feito com muito carinho para mostrar como configurar um ambiente Java, criar um projeto do zero, consumir uma API, processar respostas JSON, armazenar dados em um banco de dados e exibi-los para usuárias(os). Vamos juntas(os)? 😊
 
-## Passo a Passo para Começar
+
+## Passo a Passo para Começar!
 
 ### Configuração do Ambiente Java
 
@@ -16,12 +18,14 @@ Oi! Que bom te ver por aqui! Este projeto foi feito com muito carinho para mostr
 3. **Ajuste as variáveis de ambiente**
    - Ah, não esqueça de configurar `JAVA_HOME` e `PATH` para garantir que tudo funcione direitinho. 
 
+
 ### Criação do Projeto
 
 1. **Comece o projeto**
    - Na sua IDE favorita, crie um novo projeto Java.
 2. **Adicione as dependências**
    - Usando Maven ou Gradle, inclua as bibliotecas que vamos precisar: algo para consumir APIs (como `OkHttp`, `Retrofit` ou `Spring Web`) e acessar o banco de dados (como `JDBC` ou `Hibernate`).
+
 
 ### Consumindo a API
 
@@ -41,6 +45,7 @@ Oi! Que bom te ver por aqui! Este projeto foi feito com muito carinho para mostr
      String jsonResponse = response.body().string();
      ```
 
+
 ### Analisando a Resposta JSON
 
 1. **Use uma biblioteca para "entender" o JSON**
@@ -51,6 +56,7 @@ Oi! Que bom te ver por aqui! Este projeto foi feito com muito carinho para mostr
      ```
 2. **Mapeie os dados**
    - Crie classes Java que representem a estrutura do JSON recebido. Assim fica mais fácil trabalhar com eles.
+
 
 ### Trabalhando com o Banco de Dados
 
@@ -71,6 +77,7 @@ Oi! Que bom te ver por aqui! Este projeto foi feito com muito carinho para mostr
 3. **Recupere os dados**
    - Consulte o banco para exibir as informações para quem estiver usando sua aplicação.
 
+
 ### Exibindo Resultados para as Pessoas Usuárias
 
 1. **Escolha como mostrar os dados**
@@ -83,6 +90,7 @@ Oi! Que bom te ver por aqui! Este projeto foi feito com muito carinho para mostr
          System.out.println(resultado);
      }
      ```
+
 
 ## Contribuições
 
