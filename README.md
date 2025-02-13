@@ -105,9 +105,10 @@ Amamos colaborações! 💚 Se você quiser contribuir, siga estes passos:
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+Se precisar de ajuda ou tiver alguma dúvida, é só chamar! Espero que você se divirta e aprenda bastante com este projeto. 📚🌟
 
 ---
-Se precisar de ajuda ou tiver alguma dúvida, é só chamar! Espero que você se divirta e aprenda bastante com este projeto. 📚🌟
+
 
 
 **Contato** 📧
